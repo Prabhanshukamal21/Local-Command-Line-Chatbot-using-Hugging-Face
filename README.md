@@ -20,3 +20,6 @@ Chatbot is ready! Type your message or /exit to quit.
 
 User: What is the capital of France?
 Bot: Paris
+
+# For Queries 
+email - prabhanshu2108@gmail.com
